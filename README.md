@@ -146,8 +146,8 @@ CREATE TABLE tasks(
 Hayat Ishfaq  
 Feel free to connect or contribute to this project.
 
-📧 [your.email@example.com](contact.mhayat@gmail.com)  
-🔗 [GitHub Profile](https://github.com/hayat-ishfaq)
+📧 [Gmail: contact.mhayat@gmail.com](contact.mhayat@gmail.com)  
+🔗 [GitHub Profile: https://github.com/hayat-ishfaq ](https://github.com/hayat-ishfaq)
 
 ---
 
